@@ -1,0 +1,152 @@
+body{
+	width: 1100px;
+	background: url(valorant.png);
+	background-repeat: no-repeat;
+	background-size: 2000px 1100px;
+
+}
+ul{
+	position: absolute;
+	right: 41%;
+	top: 0.5%;
+	list-style-type: none;
+}
+
+ul li{
+	display: inline-block;
+	margin-top: 40px;
+
+}
+ul li a{
+	color: #fff;
+	border: 1px solid transparent;
+	padding: 5px 20px;
+	text-decoration: none;
+	transition: 0.6s ease;
+}
+ul li a:hover{
+	background-color: #fff;
+	color: #000;
+}
+
+ul li.active a{
+	background-color: #fff;
+	color: #000;
+}
+.header h1{
+	color: #fff;
+	position: absolute;
+	right: 59%;
+    top: 10%;
+	font-size: 300%;
+}
+.sub-header h1{
+	color: #fff;
+	position: absolute;
+	right: 61%;
+    top: 20%;
+	font-size: 150%;
+}
+.Tenz{
+    width: 300px;
+    background: rgba(0,0,0,0.4);
+    padding: 40px;
+    text-align: center;
+    position: absolute;
+    right: 80%;
+    top: 30%;
+    color: white;
+    font-family: 'Century Gothic', sans-serif;
+}
+.Tenz img{
+	border-radius: 50%;
+    width: 200px;
+    height: 200px;
+}
+.Wardell{
+    width: 300px;
+    background: rgba(0,0,0,0.4);
+    padding: 40px;
+    text-align: center;
+    position: absolute;
+    right: 60%;
+    top: 30%;
+    color: white;
+    font-family: 'Century Gothic', sans-serif;
+}
+.Wardell img{
+	border-radius: 50%;
+    width: 200px;
+    height: 200px;
+}
+
+.Thwifo{
+    width: 300px;
+    background: rgba(0,0,0,0.4);
+    padding: 40px;
+    text-align: center;
+    position: absolute;
+    right: 40%;
+    top: 30%;
+    color: white;
+    font-family: 'Century Gothic', sans-serif;
+}
+.Thwifo img{
+	border-radius: 50%;
+    width: 200px;
+    height: 200px;
+}
+.Governor{
+    width: 300px;
+    background: rgba(0,0,0,0.4);
+    padding: 40px;
+    text-align: center;
+    position: absolute;
+    right: 40%;
+    top: 70%;
+    color: white;
+    font-family: 'Century Gothic', sans-serif;
+}
+.Governor img{
+	border-radius: 50%;
+    width: 200px;
+    height: 200px;
+}
+.Menace{
+    width: 300px;
+    background: rgba(0,0,0,0.4);
+    padding: 40px;
+    text-align: center;
+    position: absolute;
+    right: 60%;
+    top: 70%;
+    color: white;
+    font-family: 'Century Gothic', sans-serif;
+}
+.Menace img{
+	border-radius: 50%;
+    width: 200px;
+    height: 200px;
+}
+.Killerxu{
+    width: 300px;
+    background: rgba(0,0,0,0.4);
+    padding: 40px;
+    text-align: center;
+    position: absolute;
+    right: 80%;
+    top: 70%;
+    color: white;
+    font-family: 'Century Gothic', sans-serif;
+}
+.Killerxu img{
+	border-radius: 50%;
+    width: 200px;
+    height: 200px;
+}
+
+
+
+
+
+
